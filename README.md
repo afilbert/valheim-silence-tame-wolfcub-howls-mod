@@ -25,4 +25,5 @@ Built with [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPac
 
 ### Releases
 
+* 0.0.2 Update README and set latest BepInEx version
 * 0.0.1 Initial publication
