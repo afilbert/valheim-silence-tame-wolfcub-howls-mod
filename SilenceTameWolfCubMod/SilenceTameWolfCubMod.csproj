@@ -7,8 +7,8 @@
     <ProjectGuid>{9E647534-F920-4303-98C2-9574A5845DEE}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ValheimTameHowlMod</RootNamespace>
-    <AssemblyName>ValheimTameHowlMod</AssemblyName>
+    <RootNamespace>SilenceTameWolfCubMod</RootNamespace>
+    <AssemblyName>SilenceTameWolfCubMod</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -56,7 +56,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ValheimTameHowlMod.cs" />
+    <Compile Include="SilenceTameWolfCubMod.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
