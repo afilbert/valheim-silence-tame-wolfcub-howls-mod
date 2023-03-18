@@ -17,6 +17,16 @@ This is inspired by [Keezys_Better_Wolves mod](https://github.com/marqgray/valhe
 
 While tame wolves won't attack one of their own, they're handy companions in most exploring/hunting situations. So having them present shouldn't also silence enemy wolves.
 
+### Config
+
+0.0.3 introduced the [Official BepInEx ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager) as a dependency.
+
+Configuration now allows:
+
+* EnableToggleFlag, default: true
+* SilenceAdultsFlag, default: false
+* SilenceRangeValue, default: 30f
+
 Built with [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPack_Valheim/)
 
 ![wolfcub-no-howl](https://user-images.githubusercontent.com/523157/208265769-713d5c15-0c8e-4a8f-bdb1-219b065deb19.png)
@@ -25,5 +35,6 @@ Built with [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPac
 
 ### Releases
 
+* 0.0.3 Add config and ability to silence adult wolves
 * 0.0.2 Update README and set latest BepInEx version
 * 0.0.1 Initial publication
