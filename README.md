@@ -19,7 +19,7 @@ While tame wolves won't attack one of their own, they're handy companions in mos
 
 ### Config
 
-0.0.3 introduced the [Official BepInEx ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager) as a required dependency.
+0.0.3 introduced the [Official BepInEx ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager) as a dependency.
 
 Configuration now allows:
 
@@ -37,6 +37,7 @@ Built with [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPac
 
 Releases in github repo are packaged for Thunderstore Mod Manager.
 
+* 0.0.5 Update for latest version of BepInEx
 * 0.0.4 Update for latest version of BepInEx and ConfigurationManager
 * 0.0.3 Add config and ability to silence adult wolves
 * 0.0.2 Update README and set latest BepInEx version
