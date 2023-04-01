@@ -4,7 +4,7 @@ using HarmonyLib;
 
 namespace ValheimTameMods
 {
-    [BepInPlugin("afilbert.ValheimSilenceTameWolfCubMod", "Valheim - Silence Tame Wolf Cub Howls", "0.0.4")]
+    [BepInPlugin("afilbert.ValheimSilenceTameWolfCubMod", "Valheim - Silence Tame Wolf Cub Howls", "0.0.5")]
     [BepInProcess("valheim.exe")]
     public class SilenceTameWolfCubMod : BaseUnityPlugin
     {
