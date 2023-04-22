@@ -37,6 +37,7 @@ Built with [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPac
 
 Releases in github repo are packaged for Thunderstore Mod Manager.
 
+* 0.0.6 Target latest BepInEx version 5.4.2105
 * 0.0.5 Update for latest version of BepInEx
 * 0.0.4 Update for latest version of BepInEx and ConfigurationManager
 * 0.0.3 Add config and ability to silence adult wolves
