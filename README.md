@@ -19,8 +19,6 @@ While tame wolves won't attack one of their own, they're handy companions in mos
 
 ### Config
 
-0.0.3 introduced the [Official BepInEx ConfigurationManager](https://github.com/BepInEx/BepInEx.ConfigurationManager) as a dependency.
-
 Configuration now allows:
 
 * EnableToggleFlag, default: true
@@ -37,6 +35,7 @@ Built with [BepInEx](https://valheim.thunderstore.io/package/denikson/BepInExPac
 
 Releases in github repo are packaged for Thunderstore Mod Manager.
 
+* 0.0.7 Drop requirement for [Official BepInEx ConfigurationManager](https://valheim.thunderstore.io/package/Azumatt/Official_BepInEx_ConfigurationManager/) from Thunderstore manifest.json to allow flexibility
 * 0.0.6 Target latest BepInEx version 5.4.2105
 * 0.0.5 Update for latest version of BepInEx
 * 0.0.4 Update for latest version of BepInEx and ConfigurationManager
